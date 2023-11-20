@@ -15,7 +15,7 @@ module.exports = {
         useTabs: false,
         singleQuote: false,
         bracketSpacing: true,
-        // These options are specifics to the Solidity Plugin
+        // These options are specific to the Solidity Plugin
         explicitTypes: 'always',
         compiler: '>=0.8.15',
       },
